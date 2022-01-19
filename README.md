@@ -10,3 +10,4 @@ python3.7 -m pip install -U norminette
 ssh-keygen -t rsa
 ```
 Скопировать созданный ключ из id_rsa.pub
+
