@@ -12,4 +12,5 @@ ssh-keygen -t rsa
 Скопировать созданный ключ из id_rsa.pub
 
 Увеличение памяти до 4Гб
-Зайтив слаке в канал msk_report ввести /report подождать пока откроется форма, заполнить ее.
+Зайтив слаке в канал msk_report ввести /report подождать пока откроется форма, заполнить ее.  
+![mas_report](https://github.com/aposipov/42cursus/blob/main/Screen%20Shot%202022-02-24%20at%2012.57.31%20PM.png)
