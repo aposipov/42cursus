@@ -10,6 +10,7 @@ python3.7 -m pip install -U norminette
 ssh-keygen -t rsa
 ```
 Скопировать созданный ключ из id_rsa.pub
+### resize RAM
 
 Увеличение памяти до 4Гб
 Зайтив слаке в канал msk_report ввести /report подождать пока откроется форма, заполнить ее.  
