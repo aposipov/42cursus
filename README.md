@@ -15,3 +15,9 @@ ssh-keygen -t rsa
 Увеличение памяти до 4Гб
 Зайтив слаке в канал msk_report ввести /report подождать пока откроется форма, заполнить ее.  
 ![mas_report](https://github.com/aposipov/42cursus/blob/main/Screen%20Shot%202022-02-24%20at%2012.57.31%20PM.png)
+  
+  
+|- [ ] test1 |test2    |  
+|-----|-----:|    
+|3|4|
+|5|6|
