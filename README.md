@@ -1,11 +1,11 @@
 # 42cursus  
 [![lchristi's 42 stats](https://badge42.herokuapp.com/api/stats/lchristi)](https://profile.intra.42.fr/users/lchristi)
   
-norminette
+### install norminette
 ```
 python3.7 -m pip install -U norminette
 ```
-  
+### ssh key   
 ```
 ssh-keygen -t rsa
 ```
