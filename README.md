@@ -10,6 +10,9 @@ python3.7 -m pip install -U norminette
 ssh-keygen -t rsa
 ```
 Скопировать созданный ключ из id_rsa.pub
+### level calc
+[calc](https://42.tbailleu.dev/)
+
 ### resize RAM
 
 Увеличение памяти до 4Гб
