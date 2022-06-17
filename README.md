@@ -13,6 +13,9 @@ ssh-keygen -t rsa
 ### level calc
 [calc](https://42.tbailleu.dev/)
 
+### notion
+https://rbellero.notion.site/rbellero/School-21-b955f2ea0c1c45b981258e1c41189ca4  
+
 ### resize RAM
 
 Увеличение памяти до 4Гб
