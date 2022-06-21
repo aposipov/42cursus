@@ -27,3 +27,5 @@ https://rbellero.notion.site/rbellero/School-21-b955f2ea0c1c45b981258e1c41189ca4
 |-----|-----:|    
 |3|4|
 |5|6|
+
+[my roadmap](./roadmap/roadmap.html)
