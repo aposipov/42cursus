@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: 42cursus
 nav_order: 2
-permalink: /README.html
+permalink: /42cursus/README.html
 ---
 
 # 42cursus  
