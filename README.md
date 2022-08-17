@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 2
+permalink: /README.html
+---
+
 # 42cursus  
 [![lchristi's 42 stats](https://badge42.herokuapp.com/api/stats/lchristi)](https://profile.intra.42.fr/users/lchristi)
   
